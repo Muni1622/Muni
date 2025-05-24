@@ -1,0 +1,157 @@
+body{
+    margin:0;
+    background-color: #f0f8ff;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    word-spacing: 1px;
+       
+}
+header{
+    height: 100vh;
+    background-image: url('../../../image/WhatsApp Image 2025-05-22 at 09.23.37_745d290b.jpg')
+    
+}
+
+header h1{
+    margin:0;
+}
+table,th,td{
+    border:1px solid black;
+    height: 100px;
+    text-align: center;
+    margin-left: 1px;
+    margin-right: -2px;
+    border-radius: 5px;
+}
+h2{
+    text-align:center;
+}
+.muni{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background: #2196F3;
+}
+.M1{
+margin-top: 10px;
+padding:10px;
+height: 117vh;
+width:197vh;
+border:2px solid black;
+border-radius: 30px;
+margin-left: 15px;
+margin-right: 20px;
+border-radius: 30px;
+}
+.m1{
+margin-top: 700px;
+padding: 10px;
+height: 117vh;
+ width:196vh;
+border:2px solid black;
+border-radius: 30px;
+margin-left: -4px;
+margin-right: 0px;
+border-radius: 30px;
+}
+h1{
+    font-size: larger;
+       background-color: blanchedalmond;
+    border:2px solid black;
+    height: 4vh;
+    width:30vh ;
+    border-radius: 10px;
+    
+}
+.ch{
+       background-color: blanchedalmond;
+    border:2px solid black;
+    height: 4vh;
+    width:36vh ;
+    border-radius: 10px;
+}
+.cm{
+      background-color: blanchedalmond;
+    border:2px solid black;
+    height: 4vh;
+    width:45vh ;
+    border-radius: 10px;
+}
+.m3{
+    text-decoration: none;
+}
+.button{
+    height: 50px;
+    width: 300px;
+    border-radius: 10px;
+    text-align: center;
+    top: 40%;
+    left: 10%;
+    position: relative;
+}
+.button1{
+    height: 50px;
+    width: 300px;
+    border-radius: 10px;
+    text-align: center;
+    top: 42%;
+    left: 30.5%;
+    position: relative;
+}
+.m4{
+    width: 150px;clear: left;float: left;text-align: left;padding-right: 2px;
+}
+.m5{
+    text-align: left;
+
+ width: 170px;clear: left;float: left;text-align: left;padding-right: 2px;
+}
+.m6{
+    color: rgb(5, 5, 197);
+    background-color: aquamarine;
+}
+.m7{
+     background-color: aquamarine;
+}
+.m8{
+top: 36%;
+left: 40%;
+position: relative;
+height: 4vh;
+width:50vh;
+border:2px solid black;
+text-align: center;
+background-color: blanchedalmond;
+ border-radius: 10px;
+}
+.mu{
+    background-color: blanchedalmond;
+    border:2px solid black;
+    height: 4vh;
+    width:30vh ;
+    border-radius: 10px;
+   
+}
+h4{
+    text-align: right;
+
+}
+.cu{
+    top: 65%;
+    position: absolute;
+}
+#myBtn {
+  
+   position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: #2196F3;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    cursor: pointer;
+    color: white;
+  
+}
